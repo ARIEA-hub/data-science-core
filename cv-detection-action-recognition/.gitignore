@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/*.mp4
+data/*.avi
+checkpoints/
+*.pth
